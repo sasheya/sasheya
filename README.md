@@ -17,19 +17,18 @@ Hi there 👋
 
 I'm Shivani Asheya, a Software Engineering student at LNCT, Bhopal. I am passionate about building practical solutions through code.
 ___
-
-<h2 align="left">⚡ About Me</h2>
+### ⚡About Me
 <p align="left">
   🚀 Currently focused on building scalable web applications, applying ML to solve real-world problems and strengthening my DSA fundamentals.<br>
   📚  When I'm not coding, you'll find me reading, listening to music, or experimenting with new technologies.
 </p>
 
 ___
-<h2 align="left">🛠️ Tech Stack</h2>
+### 🛠️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,js,django,flask,mysql,git,react,pytorch,html,css&theme=dark)](https://skillicons.dev)
 ___
-<h2 align="left">💻 My Projects</h2>
+### 💻 My Projects
 
 - CropSense - Intelligent Crop Disease Detection System (Django, React)
 - Scanterix3D - MRI visualization and 3D reconstruction using ML (Flask, React)
