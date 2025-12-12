@@ -18,7 +18,7 @@ Hi there 👋
 I'm Shivani Asheya, a Software Engineering student at LNCT, Bhopal. I am passionate about building practical solutions through code.
 ___
 
-<h2 align="left">🚀 About Me</h2>
+<h2 align="left">⚡ About Me</h2>
 <p align="left">
   🚀 Currently focused on building scalable web applications, applying ML to solve real-world problems and strengthening my DSA fundamentals.<br>
   📚  When I'm not coding, you'll find me reading, listening to music, or experimenting with new technologies.
