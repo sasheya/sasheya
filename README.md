@@ -34,5 +34,7 @@ ___
 - Scanterix3D - MRI visualization and 3D reconstruction using ML (Flask, React)
 - Readiculous - Book cataloguing application (Django, React)
 ___
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasheya&layout=compact)
+___
 ### 📫 Let's Connect
 Always open to collaborating on innovative and cool projects.
